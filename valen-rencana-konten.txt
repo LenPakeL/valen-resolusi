@@ -1,0 +1,6 @@
+RENCANA UNTUK KONTENT VALEN
+1.vidio jvascript
+  *ES6
+  *Framwork JS
+2.vidio tailwind
+3.vidio trik css
