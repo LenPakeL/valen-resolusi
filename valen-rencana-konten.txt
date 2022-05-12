@@ -2,5 +2,8 @@ RENCANA UNTUK KONTENT VALEN
 1.vidio jvascript
   *ES6
   *Framwork JS
+   ^belajar react
+   ^belajar vue
 2.vidio tailwind
 3.vidio trik css
+4.vidio mukbang
