@@ -4,3 +4,4 @@ Valen Resolusi
 -belajar framework tailwind
 -belajar framework React
 -belajar bahasa lain
+-memperbaiki diri
