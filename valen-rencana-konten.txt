@@ -3,6 +3,7 @@ RENCANA UNTUK KONTENT VALEN
   *ES6
   *Framwork JS
    ^belajar react
+   ^belajar vue
 2.vidio tailwind
 3.vidio trik css
 4.vidio mukbang
